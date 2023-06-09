@@ -1,4 +1,4 @@
-<img src="../apps/mobile/assets/img/app_logo.png" height="100px" width="100px">
+<img src="logo.webp" height="100px" width="100px">
 
 # Account Deletion Process for Qreeket
 
