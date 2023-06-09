@@ -1,4 +1,4 @@
-<img src="../apps/mobile/assets/img/app_logo.png" width="100px" height="100px">
+<img src="logo.webp" width="100px" height="100px">
 
 # Terms of Use
 
