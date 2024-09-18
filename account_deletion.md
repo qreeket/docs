@@ -35,7 +35,3 @@ Thank you for being a part of Qreeket, and we hope to see you again in the futur
 
 Best regards,
 Qreeket Support Team
-
-
-
-
